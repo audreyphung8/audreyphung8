@@ -1,5 +1,5 @@
 ## Hi, I'm Audrey! glad you're here :P
-- 👩‍💻 I'm currently a 3rd year undergraduate student at UC Irvine studying Computer Science with a minor in Health Informatics
+- 👩‍💻 I'm currently a 4th year undergraduate student at UC Irvine studying Computer Science with a minor in Health Informatics
 - 🌱 This past summer, I was a Snap Engineering Academy Scholar where I built a prototype feature and pitched it to Snap executives!
 - 💬 Right now I'm learning about programming/development of user interfaces with a specific focus on modern web and mobile technology using HTML, CSS, JavaScript, TypeScript, Angular, and Ionic (INF 133)
 - 😄 Pronouns: She/Her
