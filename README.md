@@ -1,7 +1,5 @@
 ## Hi, I'm Audrey! glad you're here :P
-- 👩‍💻 I'm currently a 4th year undergraduate student at UC Irvine studying Computer Science with a minor in Health Informatics
-- 🌱 This past summer, I was a Snap Engineering Academy Scholar where I built a prototype feature and pitched it to Snap executives!
-- 💬 Right now I'm learning about programming/development of user interfaces with a specific focus on modern web and mobile technology using HTML, CSS, JavaScript, TypeScript, Angular, and Ionic (INF 133)
+- 👩‍💻 This past summer, I was a Software Engineer Intern at Snap Inc. working on the Maps Team.
 - 😄 Pronouns: She/Her
 - 🍵 Fun fact:  I am passionate about matcha and enjoy learning about its culture, benefits, and creative ways to enjoy it! Check out my [Matcha Portfolio](https://github.com/audreyphung8/Matcha-Portfolio)
 - 📫 Check me out here: https://www.linkedin.com/in/audreyphung8/ or email me at audreyphung8@gmail.com
